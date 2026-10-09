@@ -1,18 +1,18 @@
 <script setup>
 const erikaTestimonials = [
-  '/assets/testimonials/erika/erika-1.png',
-  '/assets/testimonials/erika/erika-2.png',
-  '/assets/testimonials/erika/erika-3.png'
+  '/assets/testimonials/erika/erika-1.webp',
+  '/assets/testimonials/erika/erika-2.webp',
+  '/assets/testimonials/erika/erika-3.webp'
 ]
 
 const sandraTestimonials = [
-  '/assets/testimonials/sandra/sandra-1.png',
-  '/assets/testimonials/sandra/sandra-2.png',
-  '/assets/testimonials/sandra/sandra-3.png',
-  '/assets/testimonials/sandra/sandra-4.png',
-  '/assets/testimonials/sandra/sandra-5.png',
-  '/assets/testimonials/sandra/sandra-6.png',
-  '/assets/testimonials/sandra/sandra-7.png'
+  '/assets/testimonials/sandra/sandra-1.webp',
+  '/assets/testimonials/sandra/sandra-2.webp',
+  '/assets/testimonials/sandra/sandra-3.webp',
+  '/assets/testimonials/sandra/sandra-4.webp',
+  '/assets/testimonials/sandra/sandra-5.webp',
+  '/assets/testimonials/sandra/sandra-6.webp',
+  '/assets/testimonials/sandra/sandra-7.webp'
 ]
 </script>
 
